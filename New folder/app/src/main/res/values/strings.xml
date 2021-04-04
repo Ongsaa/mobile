@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">project3</string>
+    <string name="menu_settings" />
+    <string name="settings_menu_item" />
+</resources>
